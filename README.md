@@ -1,4 +1,4 @@
-# Company_Financial_Classification 🏦📊
+# Stock_evaluation_Python 🏦📊
 
 A Python script to classify companies based on financial metrics like the **Piotroski F-Score** and **Stock Valuation**. It processes CSV financial data for multiple companies and outputs a classification (`Strong`, `Medium`, or `Weak`) for each company.
 
